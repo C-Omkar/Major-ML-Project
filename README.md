@@ -1,1 +1,1 @@
-# Major-ML-Project
+# Major-Project-ML
